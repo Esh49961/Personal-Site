@@ -1,0 +1,193 @@
+body {
+  margin: 0;
+  background-color: #f6e1e1;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+  color: #ff9d76;
+  height: 5.625rem;
+  margin: 0;
+  padding: 0;
+  font-family: 'Great Vibes', cursive;
+  font-size: 90px;
+}
+
+h2 {
+  color: #ff9d76;
+  font-family: 'EB Garamond', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding: 15px;
+}
+
+h3 {
+  color: #eb4d55;
+  font-family: 'EB Garamond', serif;
+  padding: 0;
+  margin: 0;
+}
+
+.top {
+  position: relative;
+  margin: 0;
+}
+
+.leaves {
+  top: 150px;
+  position: relative;
+  margin: 0;
+  height: 250px;
+}
+
+.Ember2 {
+  margin: auto;
+}
+
+
+.intro{
+  text-align: center;
+  width: 50%;
+  margin-left:350px;
+}
+
+.line1{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: #eb4d55;
+}
+
+
+.middle {
+  text-align: center;
+}
+
+.skill-row1 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: left;
+}
+
+.analytics{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+
+.skill-row2 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: right;
+}
+
+
+.review{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+
+.skill-row3 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: left;
+}
+
+
+.thinking{
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+.skill-row4 {
+  width: 50%;
+  margin: auto;
+  margin-bottom: 150px;
+  text-align: right;
+}
+
+
+.problem-solving{
+  width: 25%;
+  float: right;
+  margin-left: 20px;
+}
+
+
+
+
+.line2{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: #eb4d55;
+}
+
+
+
+.bottom-container{
+  background-color: #eb4d55;
+  margin-top: 50px;
+  padding: 20px 0 20px;
+
+}
+a{
+  color: #272727;
+  font-family: 'Raleway', sans-serif;
+  margin: 10px 10px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.leaves2 {
+  background-color: #f6e1e1;
+  width: 1340px;
+}
+
+.line3{
+  width:5%;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  color: #eb4d55;
+}
+
+
+.contact-message{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.btn{
+color: rgb(230, 230, 230);
+font-size: 20px;
+font-family: 'EB Garamond', serif;
+padding: 20px;
+text-shadow: 0px -1px 0px rgba(30, 30, 30, 0.8);
+-webkit-border-radius: 30px;
+-moz-border-radius: 30px;
+border-radius: 30px;
+background: rgb(210, 20, 20);
+background: -moz-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -webkit-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -o-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: -ms-linear-gradient(90deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+background: linear-gradient(0deg, rgb(210, 20, 20) 30%, rgb(250, 20, 20) 70%);
+-webkit-box-shadow: 0px 2px 1px rgba(50, 50, 50, 0.75);
+-moz-box-shadow:    0px 2px 1px rgba(50, 50, 50, 0.75);
+box-shadow:         0px 2px 1px rgba(50, 50, 50, 0.75);
+}
